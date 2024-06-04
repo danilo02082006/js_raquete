@@ -1,2 +1,2 @@
 # js_raquete
-Um jogo de raquete feio em JS no p5
+Um jogo de raquete feito em JS no p5
